@@ -15,7 +15,13 @@ html{
   flex-direction: column;
   background-color: whitesmoke;
   padding: 0 5vw;
-  padding: 0 10vh;
+  height: 100%;
+  margin-top: 15vh;
+}
+
+u{
+  text-decoration: none!important; 
+  color: #88FFB0;
 }
 
 .root {
@@ -27,7 +33,7 @@ html{
 
 .logo{
   height: 5vh;
-  left: 95vw;
+  left: 90vw;
   position: absolute;
   top: 5vh;
 }
@@ -42,8 +48,19 @@ html{
   display: block;
   margin: 2vh 0;
   font-size: 4vh;
-  
-
-
 }
+
+.contact{
+  bottom: 38vh;
+  left: 35vw;
+  position: absolute;
+}
+
+.icon{
+  margin-right: 2.5vh;
+  height: 5vh;
+  width: 5vh;
+}
+
+
 
