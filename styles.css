@@ -7,4 +7,36 @@
 
 html{
     font-family: 'Montserrat';
+    background-color: whitesmoke
 }
+
+.summary{
+  display: flex;
+  flex-direction: column;
+  background-color: whitesmoke;
+  padding: 0 5vw;
+  padding: 0 10vh;
+}
+
+.root {
+  background:whitesmoke;
+  display: flex;
+  height: 100%;
+  width: 100%;
+}
+
+.title{
+  font-size: 10vh;
+  font-style: bold; 
+
+}
+
+.body_text{
+  display: block;
+  margin: 2vh 0;
+  font-size: 4vh;
+  
+
+
+}
+
