@@ -25,6 +25,13 @@ html{
   width: 100%;
 }
 
+.logo{
+  height: 5vh;
+  left: 95vw;
+  position: absolute;
+  top: 5vh;
+}
+
 .title{
   font-size: 10vh;
   font-style: bold; 
